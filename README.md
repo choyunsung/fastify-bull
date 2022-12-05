@@ -1,8 +1,5 @@
 # @guivic/fastify-bull
-[![dependencies status](https://david-dm.org/guivic/fastify-bull/status.svg)](https://david-dm.org/guivic/fastify-bull#info=dependencies)
-[![dev-dependencies status](https://david-dm.org/guivic/fastify-bull/dev-status.svg)](https://david-dm.org/guivic/fastify-bull#info=devDependencies)
-![Node.js CI](https://github.com/guivic/fastify-bull/workflows/Node.js%20CI/badge.svg)
-
+[![npm version](https://badge.fury.io/js/@guivic%2Ffastify-bull.svg)](https://badge.fury.io/js/@guivic%2Ffastify-bull)
 
 Use bull queues from your fastify application. Utilize fastify decorators to access shared connections, logger etc.
 
