@@ -6,7 +6,7 @@ const plugin = require('../index');
 /**
  * Create a queue handler.
  * @param {string} dir - The directory where to put the file
- * @param {string} name - The anme of the queue
+ * @param {string} name - The name of the queue
  */
 function createQueueHandler(dir = 'queues', name = 'test') {
 	const code = [
