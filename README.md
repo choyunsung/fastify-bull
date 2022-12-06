@@ -1,5 +1,6 @@
 # @guivic/fastify-bull
 [![npm version](https://badge.fury.io/js/@guivic%2Ffastify-bull.svg)](https://badge.fury.io/js/@guivic%2Ffastify-bull)
+![nodejs workflow](https://github.com/guivic/fastify-bull/actions/workflows/nodejs.yml/badge.svg)
 
 Use bull queues from your fastify application. Utilize fastify decorators to access shared connections, logger etc.
 
